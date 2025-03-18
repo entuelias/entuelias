@@ -1,6 +1,7 @@
 👋 Hi, I’m Entisar Elias (@entuelias)
 
-🚀 About Me
+
+  🚀 About Me
 
 🎓 Software Engineering Student | Passionate Developer
 
@@ -13,7 +14,7 @@
 📚 Exploring Data Structures & Algorithms (DSA) from basics to real-world applications
 
 
-🌱 Currently Learning
+  🌱 Currently Learning
 
 ⚡ Frontend: React.js – Crafting interactive & responsive UIs
 
@@ -26,7 +27,7 @@
 📱 Mobile Development: Kotlin – Continuing my journey to become a mobile app developer.
 
 
-💞️ Open to Collaborate On
+   💞️ Open to Collaborate On
 
 🌍 Social impact projects & innovative solutions
 
@@ -36,14 +37,14 @@
 
 
 
-📫 Connect With Me
+   📫 Connect With Me
 
 📧 Email: nesruentisar@gmail.com
 
-🐙 GitHub: @entuelias
+🐙 GitHub: https://github.com/entuelias
 
 💬 Telegram: @binteluzz
 
-🔗 LinkedIn: Entisar Elias
+🔗 LinkedIn:https://www.linkedin.com/in/entisar-elias-q/
 
 Let's build something amazing together! 🚀

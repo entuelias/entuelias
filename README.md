@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Software Engineering Student (AAU) | Passionate Full-Stack Developer  
+🎓 Software Engineering Student (AAU) | Passionate Web Developer  
 🎨 Skilled Figma Designer – crafting clean, user-focused UI/UX  
 🌍 Focused on building impactful tech solutions that solve real problems  
 💻 Strong Frontend Background | Currently mastering Node.js backend  

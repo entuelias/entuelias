@@ -1,24 +1,32 @@
 # 👋 Hi, I’m Entisar Elias (@entuelias)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Frontend+%2B+Full-Stack+Developer;Figma+UI%2FUX+Designer;Go+%2F+C%23+%2F+Kotlin+%2F+Flutter+Learner;Always+Building+%26+Leveling+Up)
+
 
 ## 🚀 About Me
 
-🎓 Software Engineering Student (AAU) | Passionate Web Developer  
+🎓 Software Engineering Student @ AAU 
+ 💻Full-Stack Developer — turning ideas into clean, functional web apps
 🎨 Skilled Figma Designer – crafting clean, user-focused UI/UX  
-🌍 Focused on building impactful tech solutions that solve real problems  
-💻 Strong Frontend Background | Currently mastering Node.js backend  
+🌍 Focused on building impactful tech solutions that solve real problems   
 🐍 Python Enthusiast – Driven by curiosity, self-learning & problem-solving  
-📚 Exploring Data Structures & Algorithms (DSA) – from basics to real-world challenges  
-🧠 Also familiar with: OS, Intro to AI, Cybersecurity, and other foundational CS courses  
+🧠 Also familiar with: OS, Networks, Intro to AI, Cybersecurity, DB and other foundational CS courses  
 
 ---
 
 ## 🌱 Currently Learning
+ 
+🐍 **Python** – Improving DSA and problem-solving  
+⚙️ **Go (Golang)** – distributed systems  
+🟦 **C# (.NET)** – enterprise dev  
+📱 **Kotlin / Flutter** – mobile apps  
 
-⚛️ React.js – Building responsive, dynamic UIs  
-🛠️ Node.js – Backend logic, APIs, and Express.js  
-🐍 Python – Improving scripting and problem-solving  
-📊 DSA – Practicing with LeetCode & real-case problems  
-📱 Kotlin – Stepping into Android Mobile App Development  
+---
+
+## 🔥 Experience(Highlights)  
+- 🌐 Frontend Developer Intern — Prodigy Tech  
+- 🖥️ Full-Stack Developer Intern — Nile Technologies  
+- 🎨 UI → real product implementation  
+- 🔧 Git, GitHub, APIs, debugging  
 
 ---
 
@@ -27,7 +35,6 @@
 🌍 Tech-for-good & community impact projects  
 🚀 Open-source projects & hackathons  
 🔧 Full-Stack projects with real-world value  
-🧠 DSA & Algorithm problem-solving collaborations  
 
 ---
 

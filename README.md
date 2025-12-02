@@ -26,13 +26,11 @@
 
 ---
 
-## 🔗 Connect With Me
--📤 **Email:**nesruentisar@gmail.com
-- 🌐 **GitHub:** github.com/entuelias  
-- 💼 **LinkedIn:** linkedin.com/in/entisar-elias-q/  
-
----
-
+## 📫 Connect With Me 
+-📧 Email: nesruentisar@gmail.com 
+-🐙 GitHub: [@entuelias](https://github.com/entuelias) 
+-💬 Telegram: [@binteluzz](https://t.me/binteluzz) 
+-🔗 LinkedIn: [Entisar Elias](https://www.linkedin.com/in/entisar-elias-q/) ---
 <div align="center">
   
 ✨ *“Coding is superpower. Learning is fuel.”* ✨

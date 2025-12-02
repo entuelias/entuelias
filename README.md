@@ -1,10 +1,11 @@
 # 👋 Hi, I’m **Entisar Elias** (@entuelias)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00ffd1&center=true&vCenter=true&width=600&lines=Frontend+%2B+Full-Stack+Dev;Figma+Designer;Go+%2F+C%23+%2F+Kotlin+%2F+Flutter)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&font=Fira+Code&lines=Full-Stack+Developer+(Node+%2B+Express);Figma+UI%2FUX+Designer;Go+%2F+C%23+%2F+Python+Explorer;Building+Cool+Stuff+Every+Day;Always+Evolving+%26+Learning)
+
 
 ## 🚀 About Me
  🎓 Software Engineering Student @ AAU
-💻 Frontend-strong Full-Stack Developer
+💻 Full-Stack Developer
 🎨 Figma UI/UX Designer — clean, modern, user-focused interfaces
 🧠 Currently studying:OS,Networks,ML,Cybersecurity, and other foundational CS courses
 

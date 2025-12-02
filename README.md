@@ -9,30 +9,31 @@
 ---
 
 ## 🧑‍💻 About Me
--🎓 Software Engineering Student @ AAU
+- 🎓 Software Engineering Student @ AAU
 - 💻 Full-Stack Developer
 - ⚡ Currently learning **React.js**, **ML**, **Python**, **Kotlin**, and **Networks**
 - 🎨 Skilled **Figma UI/UX Designer**
 - 🚀 Open to **tech-for-good**, **open-source**, and **full-stack** collaborations
 - 📚 Learning… because the journey never stops ✨
 
+---
 
-
-## 💼 Experience(Highlights)
-- **Frontend Developer Intern** –Prodigy Tech  
+## 💼 Experience (Highlights)
+- **Frontend Developer Intern** – Prodigy Tech  
 - **Full-Stack Developer Intern** – Nile Technologies  
-- **Built UI/UX designs** – real functional apps
+- **Built UI/UX designs** – real functional apps  
 - **Hands-on Git, GitHub, API integration, clean frontend building**
 
+---
 
-
-## 📫 Connect With Me 
--📧 Email: nesruentisar@gmail.com 
--🐙 GitHub: [@entuelias](https://github.com/entuelias) 
--💬 Telegram: [@binteluzz](https://t.me/binteluzz) 
--🔗 LinkedIn: [Entisar Elias](https://www.linkedin.com/in/entisar-elias-q/)
+## 📫 Connect With Me
+- 📧 Email: nesruentisar@gmail.com  
+- 🐙 GitHub: [@entuelias](https://github.com/entuelias)  
+- 💬 Telegram: [@binteluzz](https://t.me/binteluzz)  
+- 🔗 LinkedIn: [Entisar Elias](https://www.linkedin.com/in/entisar-elias-q/)
 
 ---
+
 <div align="center">
   
 ✨ *“Coding is superpower. Learning is fuel.”* ✨

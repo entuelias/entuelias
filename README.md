@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Entisar Elias** (@entuelias)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&font=Fira+Code&lines=Full-Stack+Developer+(Node+%2B+Express);Figma+UI%2FUX+Designer;Go+%2F+C%23+%2F+Python+Explorer;Building+Cool+Stuff+Every+Day;Always+Evolving+%26+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&font=Fira+Code&lines=Full-Stack+Developer+(Node+%2B+Express);Figma+UI%2FUX+Designer;Go+%2F+C%23+%2F+Python+Explorer;Building+Cool+Stuffs+;Always+Evolving+%26+Learning)
 
 
 ## 🚀 About Me

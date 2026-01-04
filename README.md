@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Software Engineering Student @ AAU
 - 💻 Full-Stack Developer
-- ⚡ Currently learning **React.js**, **ML**, **Python**, **Kotlin**, and **Networks**
+- ⚡ Currently learning **C#**, **ML**, **Python**, **Kotlin**, and **Networks**
 - 🎨 Skilled **Figma UI/UX Designer**
 - 🚀 Open to **tech-for-good**, **open-source**, and **full-stack** collaborations
 - 📚 Learning… because the journey never stops ✨
